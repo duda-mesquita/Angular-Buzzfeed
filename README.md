@@ -1,5 +1,7 @@
 # AngularBuzzfeed
 
+> Meu projeto feito como clone do BuzzFeed utilizando Angular para descobrir de você é um super Herói ou super Vilão!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
