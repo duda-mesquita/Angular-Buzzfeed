@@ -1,0 +1,55 @@
+{
+  "title":"Você seria um heroi ou vilão?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria?",
+      "options":[
+        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Controle mental", "alias":"A"},
+        {"id": 4, "name":"Curar feridas", "alias":"B"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual seu objetivo principal?",
+      "options":[
+        {"id": 1, "name":"Salvar a todos", "alias":"B"},
+        {"id": 2, "name":"Destruir meus inimigos", "alias":"A"},
+        {"id": 3, "name":"Não importa, contanto que eu tenha algum lucro", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Se o seu super poder fosse controle mental, o que você faria?",
+      "options":[
+        {"id": 1, "name":"Traria a paz ao mundo", "alias":"B"},
+        {"id": 2, "name":"Convenceria as pessoas a me darem o que eu quero", "alias":"A"},
+        {"id": 3, "name":"Faria as pessoas lutarem entre si", "alias":"A"},
+        {"id": 4, "name":"Faria as pessoas terem empatia", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual seria seu super hobby?",
+      "options":[
+        {"id": 1, "name":"Usar meus poderes para meu benefício", "alias":"A"},
+        {"id": 2, "name":"Assistir filmes e fazer coisas que pessoas comuns fazem", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido de super ser?",
+      "options":[
+        {"id": 1, "name":"O Destruidor", "alias":"A"},
+        {"id": 2, "name":"Um pássaro, um avião...", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super Vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
