@@ -3,9 +3,9 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  color: antiquewhite;
+  color: whitesmoke; /**antiquewhite**/
 }
 
 body{
-  background-color: #1F1147;
+  background-color: #27191c; /**#1F1147**/
 }
